@@ -1,2 +1,6 @@
 # github-demo
-Welcome, I am sstarting my journey here on Github, thanks for any tips! NIggers 
+Welcome to my page.
+
+This is subbdivision and im here to explore more about Github :D
+
+
