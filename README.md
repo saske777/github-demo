@@ -1,1 +1,2 @@
 # github-demo
+Welcome, I am starting my journey here on Github, thanks for any tips! NIggers 
