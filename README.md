@@ -1,6 +1,2 @@
 # github-demo
-Github-Desktop Demo
-
-Test out Github Desktop
-
-This is just a test
+Welcome, I am starting my journey here on Github, thanks for any tips
